@@ -1,0 +1,13 @@
+###
+
+POST http://localhost:8080/api/v1/students
+Content-Type: application/json
+
+{
+    name: "Daniel",
+    date: "2002-03-03",
+    email: "daniel@gmail.com"
+}
+
+###
+
